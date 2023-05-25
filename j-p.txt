@@ -1,0 +1,3 @@
+968AI : to datway la javascript bo chap krdny wshaya console.log() bakar bhyny 
+nmuna
+console.log("Hello, world!");
