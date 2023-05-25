@@ -1,0 +1,3 @@
+968AI : to datway la python bo chap krdny wshaya print() bakar bhyny 
+nmuna
+print('slaw jehan')
