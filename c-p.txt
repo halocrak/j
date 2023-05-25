@@ -1,0 +1,8 @@
+968AI : to datway la c bo chap krdny wshaya printf() bakar bhyny 
+nmuna
+#include <stdio.h>
+
+int main() {
+    printf("Slaw jehan\n");
+    return 0;
+}
