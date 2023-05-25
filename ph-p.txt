@@ -1,0 +1,3 @@
+968AI : to datway la php bo chap krdny wshaya echo() bakar bhyny 
+nmuna
+echo "Hello, world!";
